@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.pagination {
+  display: flex;
+  margin: 15px auto;
+  list-style: none;
+  outline: none;
+}
+
+.pagination > li {
+  margin: 10px;
+}
+
+.dataRecord {
+  margin: 5px;
+  color: white;
+  padding: 5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+}

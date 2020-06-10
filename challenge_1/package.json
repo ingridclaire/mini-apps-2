@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "react-paginate": "^6.3.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.1",
